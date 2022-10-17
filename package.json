@@ -1,0 +1,20 @@
+{
+  "name": "web2pdf",
+  "version": "1.0.0",
+  "description": "Tools to help me create pdfs from web pages",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericberdahl/web2pdf.git"
+  },
+  "author": "Eric Berdahl",
+  "bugs": {
+    "url": "https://github.com/ericberdahl/web2pdf/issues"
+  },
+  "homepage": "https://github.com/ericberdahl/web2pdf#readme",
+  "dependencies": {
+    "@vivliostyle/cli": "^5.7.0"
+  }
+}

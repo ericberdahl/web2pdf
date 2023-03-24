@@ -15,6 +15,6 @@
   },
   "homepage": "https://github.com/ericberdahl/web2pdf#readme",
   "dependencies": {
-    "@vivliostyle/cli": "^5.7.0"
+    "@vivliostyle/cli": "^7.0.0"
   }
 }
